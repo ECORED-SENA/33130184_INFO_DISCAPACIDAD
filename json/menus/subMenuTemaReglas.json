@@ -1,0 +1,36 @@
+{
+  "symbolMenu": "subMenu3",
+  "showLabelOver": false,
+  "isSubMenu": true,
+  "cssLabel": "submenu__label middle center",
+  "cssLabelOver": "submenu__label--over",
+  "textLabelButtons": [
+    "Software",
+    "Convivencia",
+    "Etiqueta",
+    "Foros",
+    "Aprobación"
+  ],
+  "callbackButtons": [
+    "subMenuButtonPress",
+    "subMenuButtonPress",
+    "subMenuButtonPress",
+    "subMenuButtonPress",
+    "subMenuButtonPress"
+  ],
+  "textForButton": [
+    "software",
+    "convivencia",
+    "etiqueta",
+    "foro",
+    "aprobacion"
+  ],
+  "defaultButton": {
+    "button": "button1"
+  },
+  "position": {
+    "x": 25,
+    "y": 595
+  },
+  "updateContent": true
+}

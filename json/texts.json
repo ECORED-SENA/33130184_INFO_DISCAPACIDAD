@@ -1,0 +1,122 @@
+{
+    "contenidos": {
+        "folder": "contenido/contenidos",
+        "pages": 2,
+        "title": "Contenidos"
+    },
+    "resultados": {
+        "folder": "contenido/resultados",
+        "pages": 1,
+        "title": "Contenidos"
+    },
+    "criterios": {
+        "folder": "contenido/criterios",
+        "pages": 1,
+        "title": "Contenidos"
+    },
+    "metodologias": {
+        "folder": "contenido/metodologia",
+        "pages": 3,
+        "title": "Contenidos"
+    },
+    "justificacion": {
+        "folder": "introduccion/justificacion",
+        "pages": 2,
+        "title": "Introducción"
+    },
+    "requisitos": {
+        "folder": "introduccion/requisitos",
+        "pages": 1,
+        "title": "Introducción"
+    },
+    "beneficios": {
+        "folder": "introduccion/beneficios",
+        "pages": 2,
+        "title": "Introducción"
+    },
+    "poblacion": {
+        "folder": "introduccion/poblacion",
+        "pages": 1,
+        "title": "Introducción"
+    },
+    "duracion": {
+        "folder": "introduccion/duracion",
+        "pages": 1,
+        "title": "Introducción"
+    },
+    "software": {
+        "folder": "reglas/software",
+        "pages": 2,
+        "title": "Reglas"
+    },
+    "aprobacion": {
+        "folder": "reglas/aprobacion",
+        "pages": 1,
+        "title": "Reglas"
+    },
+    "convivencia": {
+        "folder": "reglas/convivencia",
+        "pages": 4,
+        "title": "Reglas"
+    },
+    "etiqueta": {
+        "folder": "reglas/etiqueta",
+        "pages": 2,
+        "title": "Reglas"
+    },
+    "foro": {
+        "folder": "reglas/foro",
+        "pages": 1,
+        "title": "Reglas"
+    },
+    "descripcion": {
+        "folder": "cronograma/descripcion",
+        "pages": 1,
+        "title": "Cronograma"
+    },
+    "actividadInicial": {
+        "folder": "cronograma/actividadInicial",
+        "pages": 1,
+        "title": "Cronograma"
+    },
+    "actividadUno": {
+        "folder": "cronograma/actividadUno",
+        "pages": 1,
+        "title": "Cronograma"
+    },
+    "actividadDos": {
+        "folder": "cronograma/actividadDos",
+        "pages": 1,
+        "title": "Cronograma"
+    },
+    "actividadTres": {
+        "folder": "cronograma/actividadTres",
+        "pages": 1,
+        "title": "Cronograma"
+    },
+    "actividadCuatro": {
+        "folder": "cronograma/actividadCuatro",
+        "pages": 1,
+        "title": "Cronograma"
+    },
+    "revision": {
+        "folder": "cronograma/revision",
+        "pages": 1,
+        "title": "Cronograma"
+    },
+    "references": {
+        "folder": "references",
+        "pages": 1,
+        "title": "Referentes bibliográficos"
+    },
+    "credits": {
+        "folder": "credits",
+        "pages": 1,
+        "title": "Créditos"
+    },
+    "creativeCommons": {
+        "folder": "creativeCommons",
+        "pages": 1,
+        "title": "Creative Commons"
+    }
+}

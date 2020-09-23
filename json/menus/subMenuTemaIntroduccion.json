@@ -1,0 +1,36 @@
+{
+    "symbolMenu": "subMenu1",
+    "showLabelOver": false,
+    "isSubMenu": true,
+    "cssLabel": "submenu__label middle center",
+    "cssLabelOver": "submenu__label--over",
+    "textLabelButtons": [
+        "Justificación",
+        "Población",
+        "Requisitos",
+        "Beneficios",
+        "Duración"
+    ],
+    "callbackButtons": [
+        "subMenuButtonPress",
+        "subMenuButtonPress",
+        "subMenuButtonPress",
+        "subMenuButtonPress",
+        "subMenuButtonPress"
+    ],
+    "textForButton": [
+        "justificacion",
+        "poblacion",
+        "requisitos",
+        "beneficios",
+        "duracion"
+    ],
+    "defaultButton": {
+        "button": "button1"
+    },
+    "position": {
+        "x": 30,
+        "y": 595
+    },
+    "updateContent": true
+}

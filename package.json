@@ -1,0 +1,37 @@
+{
+  "name": "codecraft-templates",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "Luis Felipe Zapata <tuxianof@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "clear": "^0.1.0",
+    "getmac": "^1.4.6",
+    "gulp": "^4.0.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-confirm": "^1.0.8",
+    "gulp-convert-newline": "0.0.3",
+    "gulp-copy": "^4.0.1",
+    "gulp-each": "^0.5.0",
+    "gulp-file": "^0.4.0",
+    "gulp-foreach": "^0.1.0",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-javascript-obfuscator": "^1.1.5",
+    "gulp-json-minify": "^1.2.2",
+    "gulp-prompt": "^1.2.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-replace": "^1.0.0",
+    "gulp-typedoc": "^2.0.3",
+    "gulp-typescript": "^3.2.2",
+    "gulp-uglifyjs": "^0.6.2",
+    "gulp-zip": "^4.2.0",
+    "jsdoc": "^3.5.4",
+    "typedoc": "^0.8.0",
+    "typescript": "^2.4.2"
+  }
+}

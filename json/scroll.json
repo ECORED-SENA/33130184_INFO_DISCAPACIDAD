@@ -1,0 +1,22 @@
+{
+    "orientation": "vertical",
+    "numberScroll": 2,
+    "arrows": {
+        "right": {
+            "name": "sceneDesplazamiento",
+            "rotate": true,
+            "position": {
+                "x": "500",
+                "y": "550"
+            }
+        },
+        "left": {
+            "name": "sceneDesplazamiento",
+            "position": {
+                "x": "500",
+                "y": "50"
+            }
+        }
+    },
+    "keyEvent": false
+}

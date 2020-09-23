@@ -1,0 +1,8 @@
+{
+    "position": {
+        "x": 100,
+        "y": 100
+    },
+    "cssLabel": "submenu__label",
+    "callbackClose": ""
+}

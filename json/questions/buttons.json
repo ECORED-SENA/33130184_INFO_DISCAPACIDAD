@@ -1,0 +1,15 @@
+{
+    "symbolWindow": "gameQuestionWindow",
+    "nameButtons": "button",
+    "buttonVerify": "verify",
+    "buttonClose": "close",
+    "textButtonVerify": "Verificar",
+    "cssButtonVerify": "menu__label",
+    "folderText": "./texts/questions",
+    "position": {
+        "x": 0,
+        "y": 0
+    },
+    "classButtonNormal": "question__button",
+    "classButtonSelect": "question__button"
+}

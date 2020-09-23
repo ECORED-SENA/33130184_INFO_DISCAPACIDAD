@@ -1,0 +1,1 @@
+Se cambio el color de la imagen de desplazamiento y del botón del sub menú en over ya que el color inicial no contrastaba con el fondo del escenario y con la ventana respectivamente.

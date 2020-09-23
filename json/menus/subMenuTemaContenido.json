@@ -1,0 +1,33 @@
+{
+	"symbolMenu": "subMenu2",
+	"showLabelOver": false,
+	"isSubMenu": true,
+	"cssLabel": "submenu__label middle center",
+	"cssLabelOver": "submenu__label--over",
+	"textLabelButtons": [
+		"Contenidos",
+		"Resultados",
+		"Criterios",
+		"Metodología"
+	],
+	"callbackButtons": [
+		"subMenuButtonPress",
+		"subMenuButtonPress",
+		"subMenuButtonPress",
+		"subMenuButtonPress"
+	],
+	"textForButton": [
+		"contenidos",
+		"resultados",
+		"criterios",
+		"metodologias"
+	],
+	"defaultButton": {
+		"button": "button1"
+	},
+	"position": {
+		"x": 80,
+		"y": 595
+	},
+	"updateContent": true
+}

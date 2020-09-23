@@ -1,0 +1,12 @@
+{
+    "cssPagination": "presentacion__paginacion",
+    "cssTitle": "presentacion__titulo",
+    "useModal": true,
+    "hideDownMenu": true,
+   "containerLogo": "logo",
+    "position": {
+        "x": 0,
+        "y": 35
+    },
+    "callbackClose": "closePresentation"
+}

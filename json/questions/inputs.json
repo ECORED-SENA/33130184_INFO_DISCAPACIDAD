@@ -1,0 +1,13 @@
+{
+    "symbolWindow": "gameWindow",
+    "buttonVerify": "verify",
+    "buttonClose": "close",
+    "textButtonVerify": "Verificar",
+    "cssButtonVerify": "menu__label",
+    "folderText": "./texts/questions",
+    "numberAttempt": 1,
+    "position": {
+        "x": 0,
+        "y": 35
+    }
+}

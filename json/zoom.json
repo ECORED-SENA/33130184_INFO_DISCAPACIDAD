@@ -1,0 +1,10 @@
+{
+    "buttonClose": "windowPresentationBack",
+    "buttonCenter": "./images/zoom/controlButtonCenter.png",
+    "buttonMinus": "./images/zoom/controlButtonMinus.png",
+    "buttonPlus": "./images/zoom/controlButtonPlus.png",
+    "positionButtonClose": "left",
+    "colorRangeActive": "#9CC13D",
+    "colorRangeDisabled": "#46474B",
+    "controlBackground": "images/zoom/controlBackground.png"
+}

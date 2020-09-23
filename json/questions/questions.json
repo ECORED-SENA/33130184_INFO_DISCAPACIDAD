@@ -1,0 +1,24 @@
+{
+    "jsonWindowMessage": "./json/windows/message.json",
+    "jsonQuestionInput": "./json/questions/inputs.json",
+    "jsonQuestionSoup": "./json/questions/soup.json",
+    "jsonQuestionButton": "./json/questions/buttons.json",
+    "jsonResult": "./json/questions/result.json",
+    "folderTextQuestions": "./texts/questions",
+    "callbackAnswer": "",
+    "callbackFinish": "closePresentation",
+    "callbackClose": "",
+    "socoreToWin": 1,
+    "useResult": false,
+    "hideDownMenu": true,
+    "questions": [
+        {
+            "type": "input",
+            "message": {
+                "bad": "./texts/feedback/bad/text1",
+                "good": "./texts/feedback/good/text1"
+            },
+            "feedback": "true"
+        }
+    ]
+}

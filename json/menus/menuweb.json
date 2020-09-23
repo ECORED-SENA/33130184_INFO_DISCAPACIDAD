@@ -1,0 +1,78 @@
+{
+    "topBar": {
+        "color": "#0192AE",
+        "colorLine": "#FFFFFF",
+        "cssLabel": "menu-web__top-label",
+        "cssLabelOver": "menu-web__top-label--over",
+        "useIconOver": true,
+        "iconTitle": true,
+        "icons": [
+            "./images/menus/web/logo1.png",
+            "./images/menus/web/logo2.png",
+            "./images/menus/web/logo3.png",
+            "./images/menus/web/logo4.png",
+            "./images/menus/web/logo5.png"
+        ],
+        "textLabelButtons": [
+            "Inicio",
+            "Descargar PDF",
+            "Descargar OVA",
+            "Referencias",
+            "Creative Commons"
+        ],
+        "callbackButtons": [
+            "goHome",
+            null,
+            null,
+            "menuButtonPress",
+            "menuButtonPress"
+        ],
+        "textForButton": [
+            null,
+            "PDF",
+            "ZIP",
+            "references",
+            "creativeCommons"
+        ]
+    },
+    "sideNav": {
+        "color": "rgba(255, 255, 255, 0.9)",
+        "colorLine": "#2C5966",
+        "colorNotification": "#72AA20",
+        "cssLabel": "menu-web__sidenav-label",
+        "cssLabelOver": "menu-web__sidenav-label--over",
+        "icon": "./images/menus/nav/iconMenuNav.png",
+        "useIconOver": true,
+        "iconTitleName": "Title",
+        "icons": [
+            "./images/menus/nav/icon1MenuNav.png",
+            "./images/menus/nav/icon2MenuNav.png",
+            "./images/menus/nav/icon3MenuNav.png",
+            "./images/menus/nav/icon4MenuNav.png",
+            "./images/menus/nav/icon5MenuNav.png"
+        ],
+        "textLabelButtons": [
+            "Introducción",
+            "Contenidos",
+            "Reglas",
+            "Cronograma",
+            "Créditos"
+        ],
+        "callbackButtons": [
+            "menuButtonPress",
+            "menuButtonPress",
+            "menuButtonPress",
+            "menuButtonPress",
+            "menuButtonPress"
+        ],
+        "textForButton": [
+            "justificacion",
+            "contenidos",
+            "software",
+            "descripcion",
+            "credits"
+        ]
+    },
+    "linkPDF": "./download/Informacion_programa.pdf",
+    "linkZIP": "./download/OVA.zip"
+}

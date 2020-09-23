@@ -1,0 +1,42 @@
+{
+    "symbolMenu": "subMenu4",
+    "showLabelOver": false,
+    "isSubMenu": true,
+    "cssLabel": "submenu__label middle center",
+    "cssLabelOver": "submenu__label--over",
+    "textLabelButtons": [
+        "Descripción",
+        "Actividades<br>iniciales",
+        "Actividad 1",
+        "Actividad 2",
+        "Actividad 3",
+        "Actividad 4",
+        "Revisión<br>de notas"
+    ],
+    "callbackButtons": [
+        "subMenuButtonPress",
+        "subMenuButtonPress",
+        "subMenuButtonPress",
+        "subMenuButtonPress",
+        "subMenuButtonPress",
+        "subMenuButtonPress",
+        "subMenuButtonPress"
+    ],
+    "textForButton": [
+        "descripcion",
+        "actividadInicial",
+        "actividadUno",
+        "actividadDos",
+        "actividadTres",
+        "actividadCuatro",
+        "revision"
+    ],
+    "defaultButton": {
+        "button": "button1"
+    },
+    "position": {
+        "x": 30,
+        "y": 608
+    },
+    "updateContent": true
+}

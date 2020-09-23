@@ -1,0 +1,32 @@
+{
+  "symbolMenu": "menuEscena",
+  "isMainMenu": false,
+  "showLabelOver": false,
+  "cssLabel": "menu__label middle center",
+  "cssLabelOver": "menu__label--over",
+  "textLabelButtons": [
+    "Introducción",
+    "Contenidos",
+    "Reglas",
+    "Cronograma",
+    "Créditos"
+  ],
+  "callbackButtons": [
+    "menuButtonPress",
+    "menuButtonPress",
+    "menuButtonPress",
+    "menuButtonPress",
+    "menuButtonPress"
+  ],
+  "textForButton": [
+    "justificacion",
+    "contenidos",
+    "software",
+    "descripcion",
+    "credits"
+  ],
+  "position": {
+    "x": 0,
+    "y": 0
+  }
+}
